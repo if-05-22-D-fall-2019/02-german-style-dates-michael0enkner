@@ -69,5 +69,4 @@ public class GermanStyleDateCheckerTest {
     public void testSeparatorMix() {
         checkRegex("2-2.1978");
     }
-
 }
